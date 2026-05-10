@@ -107,4 +107,3 @@ class CatCafeTest {
         assertNull(cafe.getCatByWeight(-1, 5));
     }
 }
-
